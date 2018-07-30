@@ -36,26 +36,26 @@ Click on 'burger quiz' button to launch the game.
 
 Navigate with keys:
 
-> 'enter' to advance in the game
-> 'backspace' to get to previous question
-> 'right' arrow to display answers during Nuggets and themes for thematic parts
-> 'left' arrow to hide previous answer
-> 'spacebar' to display / hide scores
-> 'm' to add miams to team Mayo
-> 'l' to remove miams to team Mayo
-> 'k' to add miams to team Ketchup
-> 'j' to remove miams to team Ketchup
-> 'escape' to reset the game
+- 'enter' to advance in the game
+- 'backspace' to get to previous question
+- 'right' arrow to display answers during Nuggets and themes for thematic parts
+- 'left' arrow to hide previous answer
+- 'spacebar' to display / hide scores
+- 'm' to add miams to team Mayo
+- 'l' to remove miams to team Mayo
+- 'k' to add miams to team Ketchup
+- 'j' to remove miams to team Ketchup
+- 'escape' to reset the game
 
 [Rules of the game - french](http://www.regledujeu.fr/burger-quiz/)
 
 ## Next steps:
 
-> Burger of Death
-> Translations
-> Animations
-> Noise effects
-> Buzzers
-> Presentator mode
-> Rules on landing page
-> TBD
+- Burger of Death
+- Translations
+- Animations
+- Noise effects
+- Buzzers
+- Presentator mode
+- Rules on landing page
+- TBD
